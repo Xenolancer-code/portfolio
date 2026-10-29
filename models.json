@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "name": "Tu nombre",
+    "bio": "Artista 3D en formación. Gira, haz zoom y explora cada modelo."
+  },
+  "models": [
+    {
+      "id": "cubo-ejemplo",
+      "title": "Cubo de ejemplo",
+      "category": "Ejemplos",
+      "desc": "Modelo de prueba. Bórralo cuando subas los tuyos.",
+      "tags": [
+        "Ejemplo"
+      ],
+      "file": "models/cubo-ejemplo.glb",
+      "date": "2026-10-28"
+    }
+  ],
+  "images": [
+    {
+      "id": "imagen-ejemplo",
+      "title": "Imagen de ejemplo",
+      "category": "Ejemplos",
+      "desc": "Render o captura de prueba. Bórrala cuando subas las tuyas.",
+      "tags": [
+        "Ejemplo"
+      ],
+      "file": "images/ejemplo.svg",
+      "date": "2026-10-28"
+    }
+  ],
+  "videos": []
+}
