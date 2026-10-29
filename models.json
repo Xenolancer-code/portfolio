@@ -1,31 +1,110 @@
 {
   "profile": {
-    "name": "Tu nombre",
-    "bio": "Artista 3D en formación. Gira, haz zoom y explora cada modelo."
+    "name": "Xenolancer",
+    "bio": "Artista 3D en formación. Gira, haz zoom y explora cada modelo, imagen o video."
   },
   "models": [
     {
-      "id": "cubo-ejemplo",
-      "title": "Cubo de ejemplo",
-      "category": "Ejemplos",
-      "desc": "Modelo de prueba. Bórralo cuando subas los tuyos.",
+      "id": "Luma-Antiguo",
+      "title": "Luma Antiguo",
+      "category": "Pet",
+      "desc": "Modelo de un Luma, la representación del chat de Shaavenia",
       "tags": [
-        "Ejemplo"
+        "Verde",
+        "Alien",
+        "Bola"
       ],
-      "file": "models/cubo-ejemplo.glb",
+      "file": "models/Luma-verde.glb",
       "date": "2026-10-28"
     }
   ],
   "images": [
     {
-      "id": "imagen-ejemplo",
-      "title": "Imagen de ejemplo",
-      "category": "Ejemplos",
-      "desc": "Render o captura de prueba. Bórrala cuando subas las tuyas.",
+      "id": "CartaPikachu",
+      "title": "Carta-Pikachu",
+      "category": "Carta",
+      "desc": "Captura de la carta de Pikachu",
       "tags": [
-        "Ejemplo"
+        "Carta"
       ],
-      "file": "images/ejemplo.svg",
+      "file": "images/CartaPikachu.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "Luma-Antiguo",
+      "title": "Luma Antiguo",
+      "category": "Pet",
+      "desc": "Captura de la carta de Serrivel",
+      "tags": [
+        "Pet"
+      ],
+      "file": "images/LumaAntiguo.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "CartaSerrivel",
+      "title": "Carta-Serrivel",
+      "category": "Carta",
+      "desc": "Captura de la carta de Serrivel",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaSerrivel.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "CartaYuko",
+      "title": "Carta-Yuko",
+      "category": "Carta",
+      "desc": "Captura de la carta de Serrivel",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaYuko.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "CartaGomu",
+      "title": "Carta-Gomu",
+      "category": "Carta",
+      "desc": "Captura de la carta de Gomu",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaGomu.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "CartaGumi",
+      "title": "Carta-Gumi",
+      "category": "Carta",
+      "desc": "Captura de la carta de Gumi",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaGumi.png",
+      "date": "2026-10-28"
+    },
+     {
+      "id": "CartaDraYusei",
+      "title": "Carta-Dra-Yusei",
+      "category": "Carta",
+      "desc": "Captura de la carta de DraYusei",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaYusei.png",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "CartaKyrie",
+      "title": "Carta-Kyrie",
+      "category": "Carta",
+      "desc": "Captura de la carta de Kyrie",
+      "tags": [
+        "Carta"
+      ],
+      "file": "images/CartaKyrie.png",
       "date": "2026-10-28"
     }
   ],
